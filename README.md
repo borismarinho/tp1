@@ -5,8 +5,8 @@ Este repositório contém os arquivos do sistema montado para o projeto final da
 
 Grupo:
 
-Boris Marinho - 16/0114195
+Boris Marinho
+	
+Ítalo Franklin
 
-Ítalo
-
-Filipi
+Filipi Teles
